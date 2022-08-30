@@ -1,6 +1,6 @@
 ''' operações com lista '''
 
-
+print("haphaeu faltou")
 ''' percorrer uma lista '''
 
 # print(lista)
